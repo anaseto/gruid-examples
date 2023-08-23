@@ -1,3 +1,5 @@
+**Migrated to https://codeberg.org/anaseto/gruid-examples because of new 2FA requirement**
+
 # gruid-examples
 
 This module contains examples of programs using gruid.
